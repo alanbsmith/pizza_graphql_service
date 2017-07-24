@@ -1,0 +1,2 @@
+class Pizzerium < ApplicationRecord
+end

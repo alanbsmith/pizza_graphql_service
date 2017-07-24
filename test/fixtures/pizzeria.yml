@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  city: MyString
+  state: MyString
+  country: MyString
+  name: MyString
+  website: MyString
+  address: MyString
+  marker_size: MyString
+  marker_color: MyString
+  marker_symbol: MyString
+  lat: MyString
+  lng: MyString
+
+two:
+  city: MyString
+  state: MyString
+  country: MyString
+  name: MyString
+  website: MyString
+  address: MyString
+  marker_size: MyString
+  marker_color: MyString
+  marker_symbol: MyString
+  lat: MyString
+  lng: MyString
